@@ -7,7 +7,7 @@ Developed by Ailton Dos Santos
 
 ## 📄 Project Overview
 
-**Snake Game Deluxe** is a high-performance console application that reimagines the classic arcade mechanic. Unlike standard implementations, this engine introduces **Object-Oriented Logic**, **Dynamic Obstacles**, and a **Complex Power-up System**.
+**Snake Game** is a high-performance console application that reimagines the classic arcade mechanic. Unlike standard implementations, this engine introduces **Object-Oriented Logic**, **Dynamic Obstacles**, and a **Complex Power-up System**.
 
 The system renders graphics using `System.Console` raw manipulation, ensuring zero-latency input response. It features a progressive difficulty system across 10 levels, introducing moving walls, teletransportation portals, and protective shields.
 
