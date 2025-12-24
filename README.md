@@ -1,7 +1,7 @@
 # 🐍 Snake Game
 
 **Advanced Terminal-Based Arcade Experience featuring RPG Elements and Dynamic Physics**
-Developed by Ailton Dos Santos
+###Developed by Ailton Dos Santos
 
 ![C#](https://img.shields.io/badge/Language-C%23-239120?style=flat-square) ![.NET](https://img.shields.io/badge/Framework-.NET_9.0-512BD4?style=flat-square) ![Status](https://img.shields.io/badge/Status-Playable-brightgreen?style=flat-square)
 
