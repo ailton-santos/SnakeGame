@@ -1,5 +1,5 @@
 # 🐍 Snake Game
-### Developed by Ailton Dos Santos
+#### Developed by Ailton Dos Santos
 **Advanced Terminal-Based Arcade Experience featuring RPG Elements and Dynamic Physics**
 
 
