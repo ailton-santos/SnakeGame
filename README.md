@@ -1,4 +1,4 @@
-# 🐍 Snake Game Deluxe
+# 🐍 Snake Game
 
 **Advanced Terminal-Based Arcade Experience featuring RPG Elements and Dynamic Physics**
 Developed by Ailton Dos Santos
