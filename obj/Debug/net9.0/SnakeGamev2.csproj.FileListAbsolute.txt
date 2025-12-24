@@ -1,0 +1,4 @@
+D:\01_PROJECTS\Dot\SnakeGamev2\obj\Debug\net9.0\SnakeGamev2.GeneratedMSBuildEditorConfig.editorconfig
+D:\01_PROJECTS\Dot\SnakeGamev2\obj\Debug\net9.0\SnakeGamev2.AssemblyInfoInputs.cache
+D:\01_PROJECTS\Dot\SnakeGamev2\obj\Debug\net9.0\SnakeGamev2.AssemblyInfo.cs
+D:\01_PROJECTS\Dot\SnakeGamev2\obj\Debug\net9.0\SnakeGamev2.csproj.CoreCompileInputs.cache
